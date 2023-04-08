@@ -59,7 +59,6 @@
   ## ⭐️ Libraries and Frameworks:
 
 <p align="left"> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
       
@@ -68,6 +67,7 @@
    ##  💥  Tools, IDEs and Softwares:
 
 <p align="left"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
   <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" alt="express" width="43" height="37" /></a>
@@ -76,6 +76,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="center">Good Bay . . . ❤️ ❤️ ❤️
-<p align="center"><img src="https://themusictherapycenter.files.wordpress.com/2019/09/o1qp7h0.gif?w=300&h=219&zoom=2" alt="squirrel" height="200"/></p>
+<img src="https://themusictherapycenter.files.wordpress.com/2019/09/o1qp7h0.gif?w=300&h=219&zoom=2" alt="squirrel" height="200"/> 
 </h1>
-<h2 align="center">Learn to code my friend</h2>
+<p align="center">Learn to code my friend</p>
