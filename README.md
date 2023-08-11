@@ -70,8 +70,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-  <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" alt="express" width="43" height="37" /></a>
-    <a href="https://www.blender.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/587px-Blender_logo_no_text.svg.png" alt="express" width="43" height="37" /></a>
+<a href="https://www.mathworks.com/products/matlab.html"> <img src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" alt="express" width="43" height="37" /></a>
+<a href="https://www.blender.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/587px-Blender_logo_no_text.svg.png" alt="express" width="43" height="37" /></a>
+<a href="https://www.postman.com/"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="express" width="43" height="37" /></a>
+<a href="https://react.dev/"> <img src="  https://reactnative.dev/img/header_logo.svg" alt="express" width="43" height="37" /></a>
+
+ 
 </p>
 <br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
