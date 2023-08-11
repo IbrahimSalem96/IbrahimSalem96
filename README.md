@@ -54,9 +54,10 @@
 <a href="https://react.dev/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="43" height="37" /></a>
 <a href="https://nodejs.org/en"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="43" height="37" /></a>
 <a href="https://expressjs.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="react" width="43" height="37" /></a>
+  <a href="https://www.mongodb.com/"> <img src="https://global-uploads.webflow.com/628e6648a47e6727d5c69a2a/62f120f634f46f92d05298c6_MongoDB_Logo.svg.png" alt="MongoDB" width="43" height="37" /></a>
 </p>
-
-
+ 
+ 
    
   ## ⭐️ Libraries and Frameworks:
 
