@@ -60,14 +60,10 @@
    
   ## ⭐️ Libraries and Frameworks:
 
-<p align="left"> 
+<p align="left" > 
 
 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/bootstrap-stack.png" alt="bootstrap" width="40" height="40" /> </a>
- 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="tailwind" width="40" height="40" /> </a>
-
-</a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/project-images/bootstrap-stack.png" alt="bootstrap" width="40" height="40" /> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="tailwind" width="40" height="40" /> </a> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
      
 </p>
 
