@@ -34,8 +34,6 @@
 <a href="https://www.behance.net/ibrahimsalem96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ibrahimsalem96" height="40" width="40" /></a>
 <br>
 <a href="#"><img align="left" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="githup" height="200" width="200" /></a>
-<a href="#"><img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"alt="githup" height="200" width="200" /></a>
-
 </p>
 
 
@@ -52,9 +50,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>      
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+  <a href="#"><img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"alt="githup" height="200" width="200" /></a>
+<a href="https://react.dev/"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="43" height="37" /></a>
+<a href="https://nodejs.org/en"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="43" height="37" /></a>
+ 
+
 </p>
 
-  
+
    
   ## ⭐️ Libraries and Frameworks:
 
@@ -71,9 +74,8 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 <a href="https://www.mathworks.com/products/matlab.html"> <img src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" alt="express" width="43" height="37" /></a>
-<a href="https://www.blender.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/587px-Blender_logo_no_text.svg.png" alt="express" width="43" height="37" /></a>
-<a href="https://www.postman.com/"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="express" width="43" height="37" /></a>
-<a href="https://react.dev/"> <img src="  https://reactnative.dev/img/header_logo.svg" alt="express" width="43" height="37" /></a>
+<a href="https://www.blender.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/587px-Blender_logo_no_text.svg.png" alt="blender" width="43" height="37" /></a>
+<a href="https://www.postman.com/"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="43" height="37" /></a>
 
  
 </p>
