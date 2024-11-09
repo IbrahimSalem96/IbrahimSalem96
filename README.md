@@ -21,7 +21,7 @@
 <p>- 👀' I’m interested in About web programming<p>
 <p>- 🌱 I’m Full-stack Web | Mobile Developer  </p>
 <p>- 💞️ I’m looking to collaborate on All that is beautiful in this life<p> 
-<p>- 📫 How to reach me => ibrahim.m.salem96 ||| +962789468554<p> 
+<p>- 📫 How to reach me => ibrahim.m.salem96@gmail.com ||| +962789468554<p> 
 
 <br>
 
